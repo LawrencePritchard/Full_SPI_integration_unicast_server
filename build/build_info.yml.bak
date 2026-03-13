@@ -1,0 +1,6 @@
+west:
+  command: C:\ncs\toolchains\66cdf9b75e\opt\bin\Scripts\west build --build-dir c:/nordic/myApps/nrf5340_audio_3/build
+    c:/nordic/myApps/nrf5340_audio_3 --pristine --board nrf5340_audio_dk/nrf5340/cpuapp
+    -- -DCONFIG_DEBUG_THREAD_INFO=y
+  topdir: c:\ncs\v3.2.1
+  version: 1.4.0
